@@ -22,6 +22,11 @@ Bu proje, Arduino kullanılarak geliştirilmiş bir radar sistemidir. Servo moto
 - Buzzer → 8
 - Servo → 9
 
+## Görselleştirme
+
+![Radar 1](radar1.png)
+![Radar 2](radar2.png)
+![Radar 3](radar3.png)
 ## Nasıl Çalışır?
 - Servo motor belirli açı aralığında tarama yapar
 - Her açı için mesafe ölçümü alınır
