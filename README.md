@@ -25,7 +25,7 @@ Bu proje, Arduino kullanılarak geliştirilmiş bir radar sistemidir. Servo moto
 ## Nasıl Çalışır?
 - Servo motor belirli açı aralığında tarama yapar
 - Her açı için mesafe ölçümü alınır
-- - Ölçülen açı ve mesafe verileri seri port üzerinden gönderilir ve radar benzeri görselleştirme yapılabilir
+- Ölçülen açı ve mesafe verileri seri port üzerinden gönderilir ve radar benzeri görselleştirme yapılabilir
 - En yakın nesne tespit edilir ve o yöne kilitlenilir
 - Hedef kaybolursa sistem geniş açı taraması yapar
 - Nesne çok yaklaştığında buzzer ile uyarı verilir
