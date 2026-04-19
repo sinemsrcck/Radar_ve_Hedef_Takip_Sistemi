@@ -1,4 +1,4 @@
-# Arduino Radar Sistemi 📡
+# Arduino Radar Sistemi 
 
 Bu proje, Arduino kullanılarak geliştirilmiş bir radar sistemidir. Servo motor üzerine yerleştirilen ultrasonik sensör sayesinde belirli açılar arasında tarama yapılarak çevredeki nesneler algılanır ve takip edilir.
 
